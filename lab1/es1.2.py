@@ -1,4 +1,4 @@
-mport requests
+import requests
 
 def calcAvg(list):
    return sum(list)/len(list)
